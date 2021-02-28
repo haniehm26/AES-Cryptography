@@ -7,9 +7,8 @@ Both classes have their own main method. Inputs should be set and the output wil
 Input:\
 KEY = Maximam 128 bit hexadecimal number\
 PLAIN_TEXT = Maximam 128 bit hexadecimal number\
-\
 Output:\
-CIPHER_TEXT = Maximam 128 bit hexadecimal numbers\
+CIPHER_TEXT = Maximam 128 bit hexadecimal numbers
 #### Example
 00000000000000000000000000000000\
 c0000000000000000000000000000000\
@@ -18,9 +17,8 @@ c0000000000000000000000000000000\
 Input:\
 KEY = Maximam 128 bit hexadecimal number\
 CIPHER_TEXT = Maximam 128 bit hexadecimal number\
-\
 Output:\
-PLAIN_TEXT = Maximam 128 bit hexadecimal numbers\
+PLAIN_TEXT = Maximam 128 bit hexadecimal numbers
 #### Example
 80000000000000000000000000000000\
 0edd33d3c621e546455bd8ba1418bec8\
