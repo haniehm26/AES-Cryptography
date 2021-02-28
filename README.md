@@ -6,20 +6,22 @@ Both classes have their own main method. Inputs should be set and the output wil
 ### Encryption
 Input:\
 KEY = Maximam 128 bit hexadecimal number\
-i.e. c0000000000000000000000000000000\
 PLAIN_TEXT = Maximam 128 bit hexadecimal number\
-i.e. 00000000000000000000000000000000\
 \
 Output:\
 CIPHER_TEXT = Maximam 128 bit hexadecimal numbers\
-i.e. 4bc3f883450c113c64ca42e1112a9e87
+#### Example
+00000000000000000000000000000000\
+c0000000000000000000000000000000\
+4bc3f883450c113c64ca42e1112a9e87
 ### Decryption
 Input:\
 KEY = Maximam 128 bit hexadecimal number\
-i.e. 80000000000000000000000000000000\
 CIPHER_TEXT = Maximam 128 bit hexadecimal number\
-i.e. 0edd33d3c621e546455bd8ba1418bec8\
 \
 Output:\
 PLAIN_TEXT = Maximam 128 bit hexadecimal numbers\
-i.e. 00000000000000000000000000000000
+#### Example
+80000000000000000000000000000000\
+0edd33d3c621e546455bd8ba1418bec8\
+00000000000000000000000000000000
