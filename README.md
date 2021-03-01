@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/haniehm26/AES-Cryptography/blob/main/Cryptography%20Symbols%20.png" width="200" height="200"></img>
-<h3 align="center">:dizzy: I'll burst this BUBBLE very soon :dizzy:</h3>
 </p>
 # AES-Cryptography
 This tool provides encryption/decrytion according to AES-128 standart. The standart is based on symmetric Rijndael algorithm and regulates work with 128 bit long keys.
