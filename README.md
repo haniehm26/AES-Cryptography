@@ -3,7 +3,6 @@
   <img src="https://github.com/haniehm26/AES-Cryptography/blob/main/Cryptography%20Symbols%20.png"></img>
 </p>
 
-# AES
 This tool provides encryption/decrytion according to AES-128 standart. The standart is based on symmetric Rijndael algorithm and regulates work with 128 bit long keys.
 ## How to use
 There are two different classes, one for encrytion, one for decryption.
