@@ -26,4 +26,4 @@ c0000000000000000000000000000000 // PLAIN_TEXT
 ```
 
 ### License
-Distributed under the MIT License. See [LICENSE][https://github.com/haniehm26/AES-Cryptography/blob/main/LICENSE] for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/haniehm26/AES-Cryptography/blob/main/LICENSE) for more information.
