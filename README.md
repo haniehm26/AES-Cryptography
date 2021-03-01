@@ -14,21 +14,27 @@ This tool provides encryption/decrytion according to AES-128 standart. The stand
 There are two different classes, one for encrytion, one for decryption. Both classes have their own Main method. Inputs should be set and the output will be desplayed.
 
 ### Encryption
-You should input KEY and PLAIN_TEXT, output will be CIPHER_TEXT\
-KEY = Maximam 128 bit hexadecimal number\
-PLAIN_TEXT = Maximam 128 bit hexadecimal number\
+```markdown
+You should input KEY and PLAIN_TEXT, output will be CIPHER_TEXT
+KEY = Maximam 128 bit hexadecimal number
+PLAIN_TEXT = Maximam 128 bit hexadecimal number
 CIPHER_TEXT = Maximam 128 bit hexadecimal numbers
+```
 
 ### Decryption
-You should input KEY and CIPHER_TEXT, output will be PLAIN_TEXT\
-KEY = Maximam 128 bit hexadecimal number\
-CIPHER_TEXT = Maximam 128 bit hexadecimal number\
+```markdown
+You should input KEY and CIPHER_TEXT, output will be PLAIN_TEXT
+KEY = Maximam 128 bit hexadecimal number
+CIPHER_TEXT = Maximam 128 bit hexadecimal number
 PLAIN_TEXT = Maximam 128 bit hexadecimal numbers
+```
 
 ## Example
-KEY = 00000000000000000000000000000000\
-PLAIN_TEXT = c0000000000000000000000000000000\
-CIPHER_TEXT = 4bc3f883450c113c64ca42e1112a9e87
+```markdown
+00000000000000000000000000000000 // KEY
+c0000000000000000000000000000000 // PLAIN_TEXT
+4bc3f883450c113c64ca42e1112a9e87 // CIPHER_TEXT
+```
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
