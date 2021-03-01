@@ -24,3 +24,6 @@ PLAIN_TEXT = Maximam 128 bit hexadecimal numbers
 c0000000000000000000000000000000 // PLAIN_TEXT
 4bc3f883450c113c64ca42e1112a9e87 // CIPHER_TEXT
 ```
+
+### License
+Distributed under the MIT License. See [LICENSE][https://github.com/haniehm26/AES-Cryptography/blob/main/LICENSE] for more information.
